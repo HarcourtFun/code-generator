@@ -1,7 +1,7 @@
 {
   "name": "harcourt/code-generator",
   "description": "Code Generator",
-  "version": "1.0",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Harcourt\\CodeGenerator\\": "src/"
