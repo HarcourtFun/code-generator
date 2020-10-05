@@ -20,7 +20,7 @@ use Harcourt\CodeGenerator\Model\PropertyModel;
 use Harcourt\CodeGenerator\Model\UseTraitModel;
 use Harcourt\CodeGenerator\Model\UseClassModel;
 use Harcourt\CodeGenerator\Model\VirtualMethodModel;
-use Krlove\CodeGenerator\Model\VirtualPropertyModel;
+use Harcourt\CodeGenerator\Model\VirtualPropertyModel;
 
 require 'vendor/autoload.php';
 
