@@ -1,10 +1,10 @@
 <?php
 
-namespace Krlove\CodeGenerator\Model\Traits;
+namespace Harcourt\CodeGenerator\Model\Traits;
 
 /**
  * Trait FinalModifierTrait
- * @package Krlove\CodeGenerator\Model\Traits
+ * @package Harcourt\CodeGenerator\Model\Traits
  */
 trait FinalModifierTrait
 {

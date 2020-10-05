@@ -3,7 +3,7 @@
 Code generator is a PHP tool that provides an interface for generating code. Currently only PHP class generation is supported.
 
 ## Installation
-Require the package using composer `composer require Harcourt/code-generator --dev`. Code generator is usually intended to be installed only in dev environment. Installation in prod environment is not recommended.
+Require the package using composer `composer require harcourt/code-generator --dev`. Code generator is usually intended to be installed only in dev environment. Installation in prod environment is not recommended.
 
 ## Usage example
 ```php
@@ -20,7 +20,7 @@ use Harcourt\CodeGenerator\Model\PropertyModel;
 use Harcourt\CodeGenerator\Model\UseTraitModel;
 use Harcourt\CodeGenerator\Model\UseClassModel;
 use Harcourt\CodeGenerator\Model\VirtualMethodModel;
-use Harcourt\CodeGenerator\Model\VirtualPropertyModel;
+use Krlove\CodeGenerator\Model\VirtualPropertyModel;
 
 require 'vendor/autoload.php';
 

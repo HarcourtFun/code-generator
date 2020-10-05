@@ -1,12 +1,12 @@
 <?php
 
-namespace Krlove\CodeGenerator\Model;
+namespace Harcourt\CodeGenerator\Model;
 
-use Krlove\CodeGenerator\RenderableModel;
+use Harcourt\CodeGenerator\RenderableModel;
 
 /**
  * Class DocBlockModel
- * @package Krlove\CodeGenerator\Model
+ * @package Harcourt\CodeGenerator\Model
  */
 class DocBlockModel extends RenderableModel
 {
